@@ -1,0 +1,81 @@
+body {background-color: #333333;}
+
+.bandera {
+    background-color: #cccccc;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+    display: inline;
+}
+
+.bandera .mexico {
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.bandera .mexico1 {
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.bandera .mexico2 {
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.bandera .mexico1 .mex {
+    height: 90px;
+    width: 90px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+
+.bandera .japon {
+    background-color: whitesmoke;
+    width: 300px;
+    height: 200px;
+    align-content: center;
+
+}
+
+.bandera .japon .japon1 {
+    margin-top: 25px;
+    margin-left: 75px;
+
+}
+
+.bandera .portugal {
+    background-color: #0E6938;
+    width: 120px;
+    height: 200px;
+    float: left;
+    align-content: center;
+}
+
+.bandera .portugal2 {
+    background-color: #E82624;
+    width: 180px;
+    height: 200px;
+    float: left;
+}
+
+.bandera .por {
+    margin-left: 56px;
+    position: relative;
+    border-radius: ;
+    bottom: 80%
+}
+
+
+
+
+
